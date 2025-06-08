@@ -1,0 +1,40 @@
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Vite build output
+dist/
+.vite/
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor/IDE configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Testing / coverage
+coverage/
+*.lcov
+
+# Misc
+*.log
+
+# Optional: lock files (uncomment if not committing them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
